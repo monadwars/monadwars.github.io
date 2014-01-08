@@ -13,10 +13,17 @@ card db.xlsx = The table contianing all of the current Monad Wars card informati
 index.html = will use to host a decent enough page.
 
 /Catalyst = The location of all the Catalyst cards.
+
 /Class = The location of all the Class cards.
+
 /Equipment = The location of all the Equipment cards.
+
 /Location = The location of all the Location cards.
+
 /Quest = The location of all the Quest cards.
+
 /Scenario = The location of all the Scenario cards.
+
 /Token = The location of all the Token cards.
+
 /Unit = The location of all the Unit cards
