@@ -1,5 +1,9 @@
 So this isnt so much a coding project as it is a Collectable Role Playing Card Game (CRPCG?). 
 
+I am using card maker made by NHMK and can be found here:
+
+http://nhmk.dreamhosters.com/tools.php
+
 List of assets:
 
 Alpha RuleBook v0.2.docx = Rulebook intended for end users. If you want to play a game of "Monad Wars" this will be all you need to read.
